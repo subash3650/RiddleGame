@@ -11,7 +11,7 @@ Command-Line Interface: Simple and easy-to-use command-line interaction.
 Installation:
 
 Clone the repository:
-git clone https://github.com/yourusername/RiddleGame.git
+git clone https://github.com/subash3650/RiddleGame.git
 
 Navigate to the project directory:
 cd RiddleGame
